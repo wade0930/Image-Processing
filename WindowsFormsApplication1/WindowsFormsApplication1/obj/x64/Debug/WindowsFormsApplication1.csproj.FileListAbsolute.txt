@@ -1,0 +1,14 @@
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.UI.dll
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.World.dll
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\ZedGraph.dll
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.UI.xml
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\Emgu.CV.World.xml
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+E:\數位影像\hw2_104590046_黃浩華\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb
