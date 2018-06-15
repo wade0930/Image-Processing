@@ -1,0 +1,15 @@
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\DigitalImageProcessing.exe.config
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\cvextern.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\DigitalImageProcessing.exe
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\DigitalImageProcessing.pdb
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\Emgu.CV.UI.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\Emgu.CV.World.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\bin\x64\Release\zh-Hant\Microsoft.VisualStudio.DebuggerVisualizers.resources.dll
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.csprojResolveAssemblyReference.cache
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.Form1.resources
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.Properties.Resources.resources
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.csproj.GenerateResource.Cache
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.exe
+D:\school\助教\作業二\DigitalImageProcessing_DEMO\DigitalImageProcessing\obj\x64\Release\DigitalImageProcessing.pdb
